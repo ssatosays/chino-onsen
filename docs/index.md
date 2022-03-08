@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 茅野市内・温泉まとめ (個人用)
 
 You can use the [editor on GitHub](https://github.com/ssatosays/chino-onsen/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,9 +37,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Table
-|left |center |right |
-|:---|:---:|---:|
-|1 |2 |3 |
-|4 |5 |6 |
-|hoge |hoge |hoge |
-|hoge |hoge |hoge |
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
