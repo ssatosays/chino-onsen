@@ -29,6 +29,6 @@ tmp
 
 ### 6. 参考
 
-[温泉 | 茅野市魅力情報発信サイト](https://www.city.chino.lg.jp/site/chinomiryoku/list217.html)
+[温泉 / 茅野市魅力情報発信サイト](https://www.city.chino.lg.jp/site/chinomiryoku/list217.html)
 
-[ONSEN 温泉 | 茅野観光ナビ](https://navi.chinotabi.jp/spot/onsen/)
+[ONSEN 温泉 / 茅野観光ナビ](https://navi.chinotabi.jp/spot/onsen/)
