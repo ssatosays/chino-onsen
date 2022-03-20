@@ -9,7 +9,7 @@
 - URL / [https://www.city.chino.lg.jp/soshiki/chiikifukushi/1358.html](https://www.city.chino.lg.jp/soshiki/chiikifukushi/1358.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3227.686824526769!2d138.1383470155995!3d36.00351801983574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c56dd650d32ab%3A0xb01a4a86883721f4!2z44Ki44Kv44Ki44Op44Oz44OJ6IyF6YeO!5e0!3m2!1sja!2sjp!4v1647304888650!5m2!1sja!2sjp"
-    width="380"
+    width="360"
     height="300"
     style="border:0;"
     allowfullscreen=""
@@ -22,7 +22,7 @@
 - URL / [https://www.city.chino.lg.jp/soshiki/chiikifukushi/1355.html](https://www.city.chino.lg.jp/soshiki/chiikifukushi/1355.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228.0192470442043!2d138.2256149512408!3d35.99539632018701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c5aa7b425fdb7%3A0xdb58e14f1a9df2a3!2z5rKz5Y6f5rip5rOJIOays-WOn-OBrua5rw!5e0!3m2!1sja!2sjp!4v1647411963708!5m2!1sja!2sjp"
-    width="380"
+    width="360"
     height="300"
     style="border:0;"
     allowfullscreen=""
@@ -35,7 +35,7 @@
 - URL / [https://www.city.chino.lg.jp/soshiki/chiikifukushi/1359.html](https://www.city.chino.lg.jp/soshiki/chiikifukushi/1359.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.9189941091026!2d138.18674575123998!3d35.94895152275186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c5a4de4a3698f%3A0xbaa7506f484a0b8f!2z6YeR5rKi5rip5rOJIOmHkem2j-OBrua5rw!5e0!3m2!1sja!2sjp!4v1647412047410!5m2!1sja!2sjp"
-    width="380"
+    width="360"
     height="300"
     style="border:0;"
     allowfullscreen=""
@@ -48,7 +48,7 @@
 - URL / [https://www.city.chino.lg.jp/soshiki/chiikifukushi/1356.html](https://www.city.chino.lg.jp/soshiki/chiikifukushi/1356.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25818.173378696327!2d138.2186085599911!3d36.01365873475562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c503f7413f297%3A0x612374d9d0649b57!2z5bCW55-z5rip5rOJIOe4hOaWh-OBrua5rw!5e0!3m2!1sja!2sjp!4v1647412112774!5m2!1sja!2sjp"
-    width="380"
+    width="360"
     height="300"
     style="border:0;"
     allowfullscreen=""
@@ -61,7 +61,7 @@
 - URL / [https://www.city.chino.lg.jp/soshiki/chiikifukushi/1354.html](https://www.city.chino.lg.jp/soshiki/chiikifukushi/1354.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228.575952502315!2d138.1949046512405!3d35.98179142093838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c5a7e55fd919d%3A0xe768c044c8a8e621!2z546J5a6u5rip5rOJIOacm-Wys-OBrua5rw!5e0!3m2!1sja!2sjp!4v1647412157898!5m2!1sja!2sjp"
-    width="380"
+    width="360"
     height="300"
     style="border:0;"
     allowfullscreen=""
@@ -74,7 +74,7 @@
 - URL / [https://www.city.chino.lg.jp/soshiki/chiikifukushi/1361.html](https://www.city.chino.lg.jp/soshiki/chiikifukushi/1361.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3226.4169303974336!2d138.19302795124148!3d36.034529318023786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c510b91fbaf3b%3A0x8cf1f6aa756d4b62!2z57Gz5rKi5rip5rOJIOWhqeWjuuOBrua5rw!5e0!3m2!1sja!2sjp!4v1647412209689!5m2!1sja!2sjp"         
-    width="380"
+    width="360"
     height="300"
     style="border:0;"
     allowfullscreen=""
@@ -87,7 +87,7 @@
 - URL / [https://www.city.chino.lg.jp/soshiki/kankou/276.html](https://www.city.chino.lg.jp/soshiki/kankou/276.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.5598581148174!2d138.23575675124272!3d36.10421591416669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c5278c1b979ab%3A0x6f7cc91c217f4a42!2z55m95qi65rmW5rip5rOJIOOBmeOBmuOCieOCk-OBrua5rw!5e0!3m2!1sja!2sjp!4v1647412291972!5m2!1sja!2sjp"
-    width="380"
+    width="360"
     height="300"
     style="border:0;"
     allowfullscreen=""
